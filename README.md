@@ -20,8 +20,7 @@ Este repositorio solo tiene el sitio generado. El curso está en preparación: l
 | 10 | MVC en el cliente y Angular (2010-2016) |
 | 11 | Aplicaciones de una sola página (SPA) |
 | 12 | React y el DOM virtual (2013) |
-| 13 | Después de React: Vue, Svelte, señales y Web Components |
+| 13 | Después de React: señales y Web Components |
 | 14 | De vuelta al servidor |
 | 15 | El árbol genealógico de los patrones |
-| 16 | Seguridad web de punta a punta |
-| 17 | Proyecto integrador |
+| 16 | Proyecto integrador |
